@@ -29,4 +29,4 @@ HabitTrack is a web-based habit tracker built with Node.js, Express, and SQLite.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/habittrack.git
+git clone https://github.com/kyang-55/HabitTracks-Sprint1.git
