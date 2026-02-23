@@ -18,7 +18,11 @@ HabitTrack is a web-based habit tracker built with Node.js, Express, and SQLite.
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express
 - **Database:** SQLite
-- **Tools:** VSCode, Postman (for testing APIs)
+- **Tools:** VSCode (for testing APIs)
+
+## Bash Command Package
+
+`npm install express cors sqlite3`
 
 ## Installation
 
